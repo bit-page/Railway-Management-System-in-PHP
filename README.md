@@ -213,6 +213,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <p>If you found this project helpful, please give it a ⭐!</p>
 <p>Built with ❤️ for Academic Project</p>
 </div>
-
-```
-
