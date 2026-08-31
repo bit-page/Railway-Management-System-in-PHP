@@ -10,7 +10,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $email    = trim($_POST['email'] ?? '');
     $password = $_POST['password'] ?? '';
     $confirm  = $_POST['confirm_password'] ?? '';
-    $role     = $_POST['role'] ?? 'user';
+    $role     = 'user';  // SECURITY: self-registration is always 'user'; do not trust client input
 
     if(!$username || !$email || !$password || !$confirm) $errors[] = "All fields are required.";
     if($password !== $confirm) $errors[] = "Passwords do not match.";
